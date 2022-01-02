@@ -1,7 +1,7 @@
 //   1672. Richest Customer Wealth (LEETCODE)
 //   EASY
-```
-class Solution {
+
+``` class Solution {
     public int maximumWealth(int[][] accounts) {
         //assigning a min value
         int wealth = Integer.MIN_VALUE;
@@ -22,5 +22,5 @@ class Solution {
         
         return wealth ;   
     }
-}
-```
+}```
+
