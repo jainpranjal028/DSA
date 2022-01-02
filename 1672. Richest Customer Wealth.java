@@ -1,4 +1,4 @@
-```
+
 //   1672. Richest Customer Wealth (LEETCODE)
 //   EASY
 
@@ -25,5 +25,5 @@ class Solution {
         return wealth ;   
     }
 }
-```
+
 
