@@ -1,4 +1,4 @@
-```
+
 class Solution {
     public int maximumWealth(int[][] accounts) {
         //assigning a min value
@@ -21,4 +21,3 @@ class Solution {
         return wealth ;   
     }
 }
-```
